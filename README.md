@@ -1,4 +1,4 @@
-# Summer Economics Research Internship: Autonomous Sports Telemetry ETL Pipeline & Consumer Forecasting
+# Summer Economics Research Internship: Autonomous UK Sports Telemetry ETL Pipeline & Analysis
 
 A modular Python data engineering pipeline and econometric forecasting project developed during a Quantitative Summer Research Internship (UEA School of Economics). This architecture autonomously scrapes concurrent viewership figures across major global sporting events, bypassing Client-Side Rendering (CSR) to parse raw backend JSON payloads into a clean dataset of 1,025 intra-match observations.
 
